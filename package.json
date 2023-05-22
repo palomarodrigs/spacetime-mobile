@@ -13,6 +13,7 @@
     "@expo-google-fonts/roboto": "^0.2.3",
     "@types/react": "~18.0.27",
     "axios": "^1.4.0",
+    "dayjs": "^1.11.7",
     "expo": "~48.0.15",
     "expo-auth-session": "~4.0.3",
     "expo-av": "~13.2.1",
@@ -24,6 +25,7 @@
     "expo-router": "^1.5.3",
     "expo-secure-store": "~12.1.1",
     "expo-status-bar": "~1.4.4",
+    "expo-video-thumbnails": "~7.2.1",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
     "react-native": "0.71.8",
@@ -31,8 +33,7 @@
     "react-native-screens": "~3.20.0",
     "react-native-svg": "13.4.0",
     "react-native-video": "^5.2.1",
-    "typescript": "^4.9.4",
-    "expo-video-thumbnails": "~7.2.1"
+    "typescript": "^4.9.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
